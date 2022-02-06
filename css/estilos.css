@@ -686,14 +686,14 @@ footer .bottom-redes a:hover {
     font-size: 1rem;
   }
   .main .menu-platos .container .contenedor-menu .contenido .item .col.izq {
-    witdh: 100%;
+    width: 100%;
     text-align: center;
     margin-bottom: 0.625rem;
   }
   .main .menu-platos .container .contenedor-menu .contenido .item .col.der {
     width: 100%;
   }
-  .main .contacto .formulario .formulario_contacto input[type="submit"] {
-    witdh: 100%;
+  .main .contacto .formulario .formulario_contacto input[type=submit] {
+    width: 100%;
   }
 }
