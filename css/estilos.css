@@ -366,7 +366,7 @@ header .menu-bar-movil .slideMenu .menu-principal a {
   background-image: url('../img/prep-3.jpg');
 }
 .main .menu-platos {
-  padding: 5.625rem;
+  padding: 5.625rem 0;
 }
 .main .menu-platos .container .titulo-seccion h2 {
   text-align: center;
